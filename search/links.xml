@@ -1,0 +1,14 @@
+<pages>
+<link>
+<title>Pet</title>
+<url>http://localhost/test/pets/</url>
+</link>
+<link>
+<title>Dog</title>
+<url>http://localhost/test/pets/</url>
+</link>
+<link>
+<title>Cat</title>
+<url>http://localhost/test/pets/</url>
+</link>
+</pages>
